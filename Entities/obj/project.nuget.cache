@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "osRV4HhCbyUi2JL8NzxNHP50m7Ne1XAV5dekyz23AhSRsaWatUpfQayTq7zgQq0YIKFWinE20L5F/+w0NxbVTw==",
+  "dgSpecHash": "s5Iul11WF0xxBSVicYJMiDm8iXv0S1ZC3l8MgECC8Xty7+myGbRxuQTHuY2DzvXytXrcKUdrEW0jGcgdI2ZlCA==",
   "success": true,
-  "projectFilePath": "E:\\Training\\DEV\\Backend\\Fire\\Entities\\Entities.csproj",
+  "projectFilePath": "E:\\Training\\DEV\\Backend\\Fire_Server\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jasson\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Jasson\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",

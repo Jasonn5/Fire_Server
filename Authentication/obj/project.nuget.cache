@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rKty1NSQunXm7z8Hg3cf7HdvINaYgqaeoBncqll/NnZ57x/V1yRSU9UvEcrtS7Uz8DcraejF31TzGot0FoEn7Q==",
+  "dgSpecHash": "USW/rOlmgrxzxXA4M6B3PlmWXV3tDiOdGmAITyniluzpgM7vOXWY71V3dJOfiklGjBxvI6NHEaTDgNVPwgBRbw==",
   "success": true,
-  "projectFilePath": "E:\\Training\\DEV\\Backend\\Fire\\Authentication\\Authentication.csproj",
+  "projectFilePath": "E:\\Training\\DEV\\Backend\\Fire_Server\\Authentication\\Authentication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jasson\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\Jasson\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

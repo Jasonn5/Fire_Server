@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GV97mm7nseSR7PQHlNvflPrD8QnLzjzGZlz2BOU+mcqrDAjRmS6K9mzmog9TcChqflILNNzb2D+ykT91lAGMDw==",
+  "dgSpecHash": "HP61ePWY+ZGin2ao95iFr8lBNecVO8SF6ibU7BnKM1IxTLETjL7OSNdTVMNyGNut+8BbmnbUBXbJSlLzVoMYJQ==",
   "success": true,
-  "projectFilePath": "E:\\Training\\DEV\\Backend\\Fire\\Services\\Services.csproj",
+  "projectFilePath": "E:\\Training\\DEV\\Backend\\Fire_Server\\Services\\Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jasson\\.nuget\\packages\\hypermedia.aspnetcore\\1.3.1\\hypermedia.aspnetcore.1.3.1.nupkg.sha512",
     "C:\\Users\\Jasson\\.nuget\\packages\\hypermedia.core\\3.1.1\\hypermedia.core.3.1.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+MU6U46/WWyAtgOkuQSnj8gcR5hNJgd1XOu2oGsw9zEK3gg/rAhYy/UR6j4JRkcWpJ7ECPpkB/h9RcXLzBYV9w==",
+  "dgSpecHash": "HaXpjVnNsPN5U7k9n1rJCsJ7Mc6ZHyy4V63qWw+YhVwHkauTNYfbxe8mo8f217GpLkuhpfrn8kTH+eK8H7TyJg==",
   "success": true,
-  "projectFilePath": "E:\\Training\\DEV\\Backend\\Fire\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "E:\\Training\\DEV\\Backend\\Fire_Server\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jasson\\.nuget\\packages\\hypermedia.aspnetcore\\1.3.1\\hypermedia.aspnetcore.1.3.1.nupkg.sha512",
     "C:\\Users\\Jasson\\.nuget\\packages\\hypermedia.core\\3.1.1\\hypermedia.core.3.1.1.nupkg.sha512",

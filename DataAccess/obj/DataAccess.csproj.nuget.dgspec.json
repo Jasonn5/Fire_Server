@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Training\\DEV\\Backend\\Fire\\DataAccess\\DataAccess.csproj": {}
+    "E:\\Training\\DEV\\Backend\\Fire_Server\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "E:\\Training\\DEV\\Backend\\Fire\\Authentication\\Authentication.csproj": {
+    "E:\\Training\\DEV\\Backend\\Fire_Server\\Authentication\\Authentication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Training\\DEV\\Backend\\Fire\\Authentication\\Authentication.csproj",
+        "projectUniqueName": "E:\\Training\\DEV\\Backend\\Fire_Server\\Authentication\\Authentication.csproj",
         "projectName": "Authentication",
-        "projectPath": "E:\\Training\\DEV\\Backend\\Fire\\Authentication\\Authentication.csproj",
+        "projectPath": "E:\\Training\\DEV\\Backend\\Fire_Server\\Authentication\\Authentication.csproj",
         "packagesPath": "C:\\Users\\Jasson\\.nuget\\packages\\",
-        "outputPath": "E:\\Training\\DEV\\Backend\\Fire\\Authentication\\obj\\",
+        "outputPath": "E:\\Training\\DEV\\Backend\\Fire_Server\\Authentication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jasson\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -77,14 +77,14 @@
         }
       }
     },
-    "E:\\Training\\DEV\\Backend\\Fire\\DataAccess\\DataAccess.csproj": {
+    "E:\\Training\\DEV\\Backend\\Fire_Server\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Training\\DEV\\Backend\\Fire\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "E:\\Training\\DEV\\Backend\\Fire_Server\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "E:\\Training\\DEV\\Backend\\Fire\\DataAccess\\DataAccess.csproj",
+        "projectPath": "E:\\Training\\DEV\\Backend\\Fire_Server\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Jasson\\.nuget\\packages\\",
-        "outputPath": "E:\\Training\\DEV\\Backend\\Fire\\DataAccess\\obj\\",
+        "outputPath": "E:\\Training\\DEV\\Backend\\Fire_Server\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jasson\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -101,11 +101,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\Training\\DEV\\Backend\\Fire\\Authentication\\Authentication.csproj": {
-                "projectPath": "E:\\Training\\DEV\\Backend\\Fire\\Authentication\\Authentication.csproj"
+              "E:\\Training\\DEV\\Backend\\Fire_Server\\Authentication\\Authentication.csproj": {
+                "projectPath": "E:\\Training\\DEV\\Backend\\Fire_Server\\Authentication\\Authentication.csproj"
               },
-              "E:\\Training\\DEV\\Backend\\Fire\\Entities\\Entities.csproj": {
-                "projectPath": "E:\\Training\\DEV\\Backend\\Fire\\Entities\\Entities.csproj"
+              "E:\\Training\\DEV\\Backend\\Fire_Server\\Entities\\Entities.csproj": {
+                "projectPath": "E:\\Training\\DEV\\Backend\\Fire_Server\\Entities\\Entities.csproj"
               }
             }
           }
@@ -171,14 +171,14 @@
         }
       }
     },
-    "E:\\Training\\DEV\\Backend\\Fire\\Entities\\Entities.csproj": {
+    "E:\\Training\\DEV\\Backend\\Fire_Server\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Training\\DEV\\Backend\\Fire\\Entities\\Entities.csproj",
+        "projectUniqueName": "E:\\Training\\DEV\\Backend\\Fire_Server\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "E:\\Training\\DEV\\Backend\\Fire\\Entities\\Entities.csproj",
+        "projectPath": "E:\\Training\\DEV\\Backend\\Fire_Server\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Jasson\\.nuget\\packages\\",
-        "outputPath": "E:\\Training\\DEV\\Backend\\Fire\\Entities\\obj\\",
+        "outputPath": "E:\\Training\\DEV\\Backend\\Fire_Server\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jasson\\AppData\\Roaming\\NuGet\\NuGet.Config",

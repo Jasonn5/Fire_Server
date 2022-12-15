@@ -8279,11 +8279,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Training\\DEV\\Backend\\Fire\\Services\\Services.csproj",
+      "projectUniqueName": "E:\\Training\\DEV\\Backend\\Fire_Server\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "E:\\Training\\DEV\\Backend\\Fire\\Services\\Services.csproj",
+      "projectPath": "E:\\Training\\DEV\\Backend\\Fire_Server\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\Jasson\\.nuget\\packages\\",
-      "outputPath": "E:\\Training\\DEV\\Backend\\Fire\\Services\\obj\\",
+      "outputPath": "E:\\Training\\DEV\\Backend\\Fire_Server\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jasson\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8300,11 +8300,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\Training\\DEV\\Backend\\Fire\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "E:\\Training\\DEV\\Backend\\Fire\\DataAccess\\DataAccess.csproj"
+            "E:\\Training\\DEV\\Backend\\Fire_Server\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "E:\\Training\\DEV\\Backend\\Fire_Server\\DataAccess\\DataAccess.csproj"
             },
-            "E:\\Training\\DEV\\Backend\\Fire\\Entities\\Entities.csproj": {
-              "projectPath": "E:\\Training\\DEV\\Backend\\Fire\\Entities\\Entities.csproj"
+            "E:\\Training\\DEV\\Backend\\Fire_Server\\Entities\\Entities.csproj": {
+              "projectPath": "E:\\Training\\DEV\\Backend\\Fire_Server\\Entities\\Entities.csproj"
             }
           }
         }

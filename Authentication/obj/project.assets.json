@@ -5255,11 +5255,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Training\\DEV\\Backend\\Fire\\Authentication\\Authentication.csproj",
+      "projectUniqueName": "E:\\Training\\DEV\\Backend\\Fire_Server\\Authentication\\Authentication.csproj",
       "projectName": "Authentication",
-      "projectPath": "E:\\Training\\DEV\\Backend\\Fire\\Authentication\\Authentication.csproj",
+      "projectPath": "E:\\Training\\DEV\\Backend\\Fire_Server\\Authentication\\Authentication.csproj",
       "packagesPath": "C:\\Users\\Jasson\\.nuget\\packages\\",
-      "outputPath": "E:\\Training\\DEV\\Backend\\Fire\\Authentication\\obj\\",
+      "outputPath": "E:\\Training\\DEV\\Backend\\Fire_Server\\Authentication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jasson\\AppData\\Roaming\\NuGet\\NuGet.Config",

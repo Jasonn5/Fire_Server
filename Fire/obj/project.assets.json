@@ -10027,11 +10027,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Training\\DEV\\Backend\\Fire\\Fire\\Fire.csproj",
+      "projectUniqueName": "E:\\Training\\DEV\\Backend\\Fire_Server\\Fire\\Fire.csproj",
       "projectName": "Fire",
-      "projectPath": "E:\\Training\\DEV\\Backend\\Fire\\Fire\\Fire.csproj",
+      "projectPath": "E:\\Training\\DEV\\Backend\\Fire_Server\\Fire\\Fire.csproj",
       "packagesPath": "C:\\Users\\Jasson\\.nuget\\packages\\",
-      "outputPath": "E:\\Training\\DEV\\Backend\\Fire\\Fire\\obj\\",
+      "outputPath": "E:\\Training\\DEV\\Backend\\Fire_Server\\Fire\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jasson\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10048,14 +10048,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\Training\\DEV\\Backend\\Fire\\Authentication\\Authentication.csproj": {
-              "projectPath": "E:\\Training\\DEV\\Backend\\Fire\\Authentication\\Authentication.csproj"
+            "E:\\Training\\DEV\\Backend\\Fire_Server\\Authentication\\Authentication.csproj": {
+              "projectPath": "E:\\Training\\DEV\\Backend\\Fire_Server\\Authentication\\Authentication.csproj"
             },
-            "E:\\Training\\DEV\\Backend\\Fire\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "E:\\Training\\DEV\\Backend\\Fire\\DataAccess\\DataAccess.csproj"
+            "E:\\Training\\DEV\\Backend\\Fire_Server\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "E:\\Training\\DEV\\Backend\\Fire_Server\\DataAccess\\DataAccess.csproj"
             },
-            "E:\\Training\\DEV\\Backend\\Fire\\Services\\Services.csproj": {
-              "projectPath": "E:\\Training\\DEV\\Backend\\Fire\\Services\\Services.csproj"
+            "E:\\Training\\DEV\\Backend\\Fire_Server\\Services\\Services.csproj": {
+              "projectPath": "E:\\Training\\DEV\\Backend\\Fire_Server\\Services\\Services.csproj"
             }
           }
         }
