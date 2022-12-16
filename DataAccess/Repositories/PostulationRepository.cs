@@ -28,7 +28,7 @@ namespace DataAccess.Repositories
 
         public IEnumerable<Postulation> List()
         {
-            var postulations = _dataAccess.Set<Postulation>().FromSqlRaw($"dbo.GetPostulations").AsEnumerable();
+            var postulations = _dataAccess.Set<Postulation>();
 
             return postulations;
         }

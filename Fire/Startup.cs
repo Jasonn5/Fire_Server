@@ -148,6 +148,10 @@ namespace Fire
             services.AddTransient<IPostulationService, PostulationService>();
             services.AddTransient<IPostulationRepository, PostulationRepository>();
 
+            //Release
+            services.AddTransient<IReleaseRepository, ReleaseRepository>();
+            services.AddTransient<IReleaseService, ReleaseService>();
+
         }
     }
 }

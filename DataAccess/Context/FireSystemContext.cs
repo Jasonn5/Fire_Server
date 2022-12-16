@@ -12,6 +12,7 @@ namespace DataAccess.Context
 
         public DbSet<FireReport> FireReports { get; set; }
         public DbSet<Postulation> Postulations { get; set; }
+        public DbSet<Release> Releases { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);

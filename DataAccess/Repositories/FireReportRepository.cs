@@ -27,7 +27,7 @@ namespace DataAccess.Repositories
 
         public IEnumerable<FireReport> List()
         {
-            var fireReports = _dataAccess.Set<FireReport>().FromSqlRaw($"dbo.GetFireReports").AsEnumerable();
+            var fireReports = _dataAccess.Set<FireReport>();
 
             return fireReports;
         }

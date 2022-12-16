@@ -8,3 +8,13 @@ E:\Training\DEV\Backend\Fire\Authentication\bin\Debug\netcoreapp3.1\Authenticati
 E:\Training\DEV\Backend\Fire\Authentication\bin\Debug\netcoreapp3.1\Authentication.pdb
 E:\Training\DEV\Backend\Fire\Authentication\obj\Debug\netcoreapp3.1\Authentication.dll
 E:\Training\DEV\Backend\Fire\Authentication\obj\Debug\netcoreapp3.1\Authentication.pdb
+E:\Training\DEV\Backend\Fire_Server\Authentication\bin\Debug\netcoreapp3.1\Authentication.deps.json
+E:\Training\DEV\Backend\Fire_Server\Authentication\bin\Debug\netcoreapp3.1\Authentication.dll
+E:\Training\DEV\Backend\Fire_Server\Authentication\bin\Debug\netcoreapp3.1\Authentication.pdb
+E:\Training\DEV\Backend\Fire_Server\Authentication\obj\Debug\netcoreapp3.1\Authentication.csproj.AssemblyReference.cache
+E:\Training\DEV\Backend\Fire_Server\Authentication\obj\Debug\netcoreapp3.1\Authentication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\DEV\Backend\Fire_Server\Authentication\obj\Debug\netcoreapp3.1\Authentication.AssemblyInfoInputs.cache
+E:\Training\DEV\Backend\Fire_Server\Authentication\obj\Debug\netcoreapp3.1\Authentication.AssemblyInfo.cs
+E:\Training\DEV\Backend\Fire_Server\Authentication\obj\Debug\netcoreapp3.1\Authentication.csproj.CoreCompileInputs.cache
+E:\Training\DEV\Backend\Fire_Server\Authentication\obj\Debug\netcoreapp3.1\Authentication.dll
+E:\Training\DEV\Backend\Fire_Server\Authentication\obj\Debug\netcoreapp3.1\Authentication.pdb
