@@ -11,7 +11,7 @@ namespace Entities
         [Required]
         public string PhoneNumber { get; set; }
 
-        public string ExtraInstructions { get; set; }
+        public string? ExtraInstructions { get; set; }
 
         public int EmergencyType { get; set; }
 

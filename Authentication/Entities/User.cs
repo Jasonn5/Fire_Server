@@ -24,9 +24,9 @@ namespace Authentication.Entities
 
 
         [NotMapped]
-        public string Token { get; set; }
+        public string? Token { get; set; }
 
         [NotMapped]
-        public ICollection<Role> Roles { get; set; }
+        public ICollection<Role>? Roles { get; set; }
     }
 }
