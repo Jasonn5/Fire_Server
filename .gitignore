@@ -1,0 +1,14 @@
+/.vs
+/packages
+/Fire/.vs
+/Fire/bin
+/Fire/obj
+/Fire/logs
+/DataAccess/obj
+/DataAccess/bin
+/Entities/obj
+/Entities/bin
+/Services/obj
+/Services/bin
+/Authentication/bin
+/Authentication/obj
