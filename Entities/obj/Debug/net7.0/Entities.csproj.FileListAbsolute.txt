@@ -1,0 +1,12 @@
+E:\Training\DEV\Backend\Fire_Server\Entities\bin\Debug\net7.0\Entities.deps.json
+E:\Training\DEV\Backend\Fire_Server\Entities\bin\Debug\net7.0\Entities.dll
+E:\Training\DEV\Backend\Fire_Server\Entities\bin\Debug\net7.0\Entities.pdb
+E:\Training\DEV\Backend\Fire_Server\Entities\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
+E:\Training\DEV\Backend\Fire_Server\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\DEV\Backend\Fire_Server\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+E:\Training\DEV\Backend\Fire_Server\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+E:\Training\DEV\Backend\Fire_Server\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+E:\Training\DEV\Backend\Fire_Server\Entities\obj\Debug\net7.0\Entities.dll
+E:\Training\DEV\Backend\Fire_Server\Entities\obj\Debug\net7.0\refint\Entities.dll
+E:\Training\DEV\Backend\Fire_Server\Entities\obj\Debug\net7.0\Entities.pdb
+E:\Training\DEV\Backend\Fire_Server\Entities\obj\Debug\net7.0\ref\Entities.dll
